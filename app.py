@@ -20,7 +20,7 @@ if st.button("Here is your dish"):
     }
     recipe = generate_curry_recipe(user_input)
     if recipe:
-        st.subheader("Generated Curry Recipe")
+        st.subheader("Generated Food Recipe")
         st.text(recipe)
     else:
         st.error("Failed to generate recipe. Please try again.")
