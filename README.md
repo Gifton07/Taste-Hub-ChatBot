@@ -18,6 +18,8 @@ Welcome to **Taste Hub**, your go-to AI-powered recipe generator for all things 
 ### 1. Clone the Repository
 Start by cloning the repository to your local machine:
 
+##Hosted link :-https://taste-app-chatbot.streamlit.app/
+
 ```bash
 git clone https://github.com/your-username/taste-hub.git
 cd taste-hub
